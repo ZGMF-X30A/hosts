@@ -1,5 +1,7 @@
-更新日期：2014年8月7日
-来源：网络+原创
+#更新日期：2014年8月8日
+#来源：网络+原创
+#有效期：不定时。
+#由于某墙封IP频繁以及某些网站IP变动频繁，当发现某些网站打不开时请尝试修改或删除相应的hosts条目。
 #Google Services START
 #Googleapis↓
 61.19.1.54 mt0.googleapis.com
@@ -843,24 +845,6 @@
 208.94.0.61	www.yfrog.com
 #Twitter END
 
-#Adobe Activation START
-0.0.0.0	3dns-2.adobe.com
-0.0.0.0	3dns-3.adobe.com
-0.0.0.0	activate.adobe.com
-0.0.0.0	activate-sea.adobe.com
-0.0.0.0	activate-sjc0.adobe.com
-0.0.0.0	adobe-dns.adobe.com
-0.0.0.0	adobe-dns-2.adobe.com
-0.0.0.0	adobe-dns-3.adobe.com
-0.0.0.0	ereg.adobe.com
-0.0.0.0	hl2rcv.adobe.com
-0.0.0.0	practivate.adobe.com
-0.0.0.0	wip3.adobe.com
-0.0.0.0	activate.wip3.adobe.com
-0.0.0.0	ereg.wip3.adobe.com
-0.0.0.0	wwis-dubc1-vip60.adobe.com
-#Adobe Activation END
-
 #YouTube START
 203.208.46.206	accounts.youtube.com
 203.208.46.206	apiblog.youtube.com
@@ -884,12 +868,6 @@
 
 #Others START
 38.229.72.14	www.torproject.org
-#Others END
-
-#SmartHosts END
-
-#（以下是我添加的）
-
 
 #谷歌blogger，自由、强大的免费博客
 173.194.72.191    draft.blogger.com
@@ -927,45 +905,12 @@
 208.71.107.171    blog-imgs-1.fc2blog.net
 
 #维基百科
-208.80.152.201  wikipedia.org
-208.80.152.201  zh.wikipedia.org
-208.80.152.201  zh-yue.wikipedia.org
-208.80.152.201  en.wikipedia.org
-208.80.152.201  ja.wikipedia.org
-91.198.174.234  upload.wikimedia.org
-
-#Internet download manager(IDM)破解
-#（去除前面“#”即为激活，否则无效）
-127.0.0.1 tonec.com
-127.0.0.1 http://www.tonec.com
-127.0.0.1 registeridm.com
-127.0.0.1 www.registeridm.com
-127.0.0.1 secure.registeridm.com
-127.0.0.1 internetdownloadmanager.com
-127.0.0.1 www.internetdownloadmanager.com
-127.0.0.1 secure.internetdownloadmanager.com
-127.0.0.1 mirror.internetdownloadmanager.com
-127.0.0.1 www.mirror.internetdownloadmanager.com
-127.0.0.1 mirror2.internetdownloadmanager.com
-127.0.0.1 www.mirror2.internetdownloadmanager.com
-127.0.0.1 www.mirror3.internetdownloadmanager.com
-127.0.0.1 mirror3.internetdownloadmanager.com
-127.0.0.1 174.133.70.101:443
-127.0.0.1 174.133.70.101:80
-127.0.0.1 174.133.70.98
-127.0.0.1 *internetdownloadmanager.com/data/395012712/register.cgi
-127.0.0.1 *registeridm.com*
-
-#---以下用于屏蔽广告---
-#屏蔽酷狗广告
-127.0.0.1 links.kugoo.com
-127.0.0.1 p.kugoo.com
-127.0.0.1 gg.kugou.com
-#屏蔽广东电信广告
-127.0.0.1    gd.189.cn
-
-#以下用于一些需要临时访问的网站
-46.82.174.68      wordpress2blogger.appspot.com
+208.80.154.224  wikipedia.org
+208.80.154.224  zh.wikipedia.org
+208.80.154.224  zh-yue.wikipedia.org
+208.80.154.224  en.wikipedia.org
+208.80.154.224  ja.wikipedia.org
+208.80.154.240  upload.wikimedia.org
 
 
 #Tumblr
@@ -976,6 +921,11 @@
 66.6.41.30 www.tumblr.com
 66.6.42.30 www.tumblr.com
 66.6.43.30 www.tumblr.com
+
+54.230.181.208 static.tumblr.com
+54.230.126.216 static.tumblr.com
+54.230.86.14 static.tumblr.com
+54.230.85.131 static.tumblr.com
 
 54.192.232.128 assets.tumblr.com
 54.192.232.119 assets.tumblr.com
@@ -1028,3 +978,6 @@
 173.194.72.95 ajax.googleapis.com
 74.125.204.95 ajax.googleapis.com
 #Tumblr END
+
+#以下用于一些需要临时访问的网站
+46.82.174.68      wordpress2blogger.appspot.com
