@@ -1,4 +1,4 @@
-#更新日期：2014年8月8日
+#最后更新日期：2014年8月15日
 #来源：网络+原创
 #有效期：不定时。
 #由于某墙封IP频繁以及某些网站IP变动频繁，当发现某些网站打不开时请尝试修改或删除相应的hosts条目。
@@ -873,7 +873,7 @@
 173.194.72.191    draft.blogger.com
 74.125.31.191     draft.blogger.com
 
-#Google
+#Google备用
 74.125.235.192    clients6.google.com
 74.125.235.193    clients6.google.com
 74.125.235.197    clients6.google.com
@@ -978,6 +978,18 @@
 173.194.72.95 ajax.googleapis.com
 74.125.204.95 ajax.googleapis.com
 #Tumblr END
+
+#免费代码托管
+131.103.20.167 bitbucket.org
+131.103.20.168 bitbucket.org
+192.30.252.128 github.com
+192.30.252.129 github.com
+192.30.252.130 github.com
+192.30.252.131 github.com
+103.245.222.133 avatars0.githubusercontent.com
+199.27.79.133 avatars0.githubusercontent.com
+23.235.47.133 avatars0.githubusercontent.com
+185.31.17.133 avatars0.githubusercontent.com
 
 #以下用于一些需要临时访问的网站
 46.82.174.68      wordpress2blogger.appspot.com
