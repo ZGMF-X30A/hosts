@@ -870,8 +870,17 @@
 38.229.72.14	www.torproject.org
 
 #谷歌blogger，自由、强大的免费博客
-173.194.72.191    draft.blogger.com
-74.125.31.191     draft.blogger.com
+173.194.72.191 draft.blogger.com
+74.125.31.191 draft.blogger.com
+173.194.72.191 accounts.blogger.com
+74.125.31.191 accounts.blogger.com
+
+#谷歌地球
+72.14.203.101  www.panoramio.com
+74.125.130.141 www.panoramio.com
+64.233.167.141 www.panoramio.com
+74.125.224.102 kh.google.com
+#谷歌地球END
 
 #Google备用
 74.125.235.192    clients6.google.com
