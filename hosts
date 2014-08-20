@@ -1,4 +1,4 @@
-#最后更新日期：2014年8月15日
+#最后更新日期：2014年8月20日
 #来源：网络+原创
 #有效期：不定时。
 #由于某墙封IP频繁以及某些网站IP变动频繁，当发现某些网站打不开时请尝试修改或删除相应的hosts条目。
@@ -75,8 +75,8 @@
 74.125.205.141 lfe-alpo-gm.appspot.com
 #Ingress↑
 #GoogleAccounts↓
-74.125.204.84 accounts.google.com
-74.125.204.84 accounts.l.google.com
+64.233.166.84 accounts.google.com
+64.233.166.84 accounts.l.google.com
 #74.125.204.84 accounts.youtube.com
 #GoogleAccounts↑
 #www.google.com↓
@@ -870,10 +870,9 @@
 38.229.72.14	www.torproject.org
 
 #谷歌blogger，自由、强大的免费博客
-173.194.72.191 draft.blogger.com
 74.125.31.191 draft.blogger.com
-173.194.72.191 accounts.blogger.com
 74.125.31.191 accounts.blogger.com
+74.125.130.191 www.blogger.com
 
 #谷歌地球
 72.14.203.101  www.panoramio.com
@@ -902,7 +901,11 @@
 173.194.46.40     plus.google.com
 173.194.38.162    plus.google.com
 173.194.72.102    plus.google.com
-
+74.125.136.101 chrome.google.com
+74.125.136.139 chrome.google.com
+74.125.136.100 chrome.google.com
+74.125.224.135 chrome.google.com
+173.194.127.39 chrome.google.com
 
 #日本FC2免费博客
 50.112.155.148    fc2blog.us
@@ -1002,3 +1005,4 @@
 
 #以下用于一些需要临时访问的网站
 46.82.174.68      wordpress2blogger.appspot.com
+
